@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PermissionWs</string>
+    <string name="record_audio_permission">Record Audio Permission</string>
+    <string name="receive_sms_permission">Receive SMS Permission</string>
+    <string name="record_audio_granted">Record Audio Granted</string>
+    <string name="receive_sms_granted">Receive SMS Granted</string>
+    <string name="record_audio_denied">Record Audio Denied</string>
+    <string name="receive_sms_denied">Receive SMS Denied</string>
+    <string name="permission_record_audio_already_denied">Record Audio permission already Denied</string>
+    <string name="permission_receive_sms_already_denied">Receive SMS permission already Denied</string>
+    <string name="permission_record_audio_already_granted">Record Audio permission already Granted</string>
+    <string name="permission_receive_sms_already_granted">Receive SMS permission already granted</string>
+</resources>
