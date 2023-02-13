@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMapTest</string>
+    <string name="permission_required_toast">Permission Required</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="permission_rationale_location">Permission Rationale</string>
+    <string name="zoom_buttons">Zoom</string>
+    <string name="compass">Compass</string>
+    <string name="mylocation_button">My Location</string>
+    <string name="mylocation_layer">My Location Layer</string>
+    <string name="scroll">Scroll</string>
+    <string name="tilt">Tilt</string>
+    <string name="rotate">Rotate</string>
+    <string name="zoom_gestures">Zoom Gesture</string>
+    <string name="map_not_ready">Map Not Ready</string>
+    <string name="map_key">AIzaSyCzWiEJN4MVXa5uyIgYn_LG_KLcuWUeg2I</string>
+</resources>
