@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity
 
         // [START_EXCLUDE silent]
         // Construct a PlacesClient
-        Places.initialize(getApplicationContext(), getString(R.string.MAPS_API_KEY));
+        Places.initialize(getApplicationContext(), BuildConfig.MAP_KEY);
         placesClient = Places.createClient(this);
 
         // Construct a FusedLocationProviderClient.
@@ -145,7 +145,7 @@ public class MainActivity extends AppCompatActivity
         // [END maps_current_place_map_fragment]
         // [END_EXCLUDE]
 
-        getLocationWithCheckNetworkAndGPS();
+         getLocationWithCheckNetworkAndGPS();
     }
     // [END maps_current_place_on_create]
 
